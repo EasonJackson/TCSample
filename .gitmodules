@@ -1,0 +1,3 @@
+[submodule "SubmoduleFoo"]
+	path = SubmoduleFoo
+	url = https://github.com/EasonJackson/SubmoduleFoo
