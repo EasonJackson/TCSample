@@ -1,3 +1,6 @@
 [submodule "SubmoduleFoo"]
 	path = SubmoduleFoo
 	url = https://github.com/EasonJackson/SubmoduleFoo
+[submodule "SubmoduleBar"]
+	path = SubmoduleBar
+	url = C:/Users/epan/SubmoduleBar/
